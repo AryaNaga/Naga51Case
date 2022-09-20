@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-03T22:20:07 EDT" name="Default suite" finished-at="2022-09-03T22:20:13 EDT" duration-ms="6302">
+    <groups>
+    </groups>
+    <test started-at="2022-09-03T22:20:07 EDT" name="Default test" finished-at="2022-09-03T22:20:13 EDT" duration-ms="6302">
+      <class name="TestNG_Tests.ChromeTesting">
+        <test-method is-config="true" signature="beforeTest()[pri:0, instance:TestNG_Tests.ChromeTesting@28f3b248]" started-at="2022-09-03T22:20:07 EDT" name="beforeTest" finished-at="2022-09-03T22:20:13 EDT" duration-ms="5837" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method signature="chromeTestMethod()[pri:0, instance:TestNG_Tests.ChromeTesting@28f3b248]" started-at="2022-09-03T22:20:13 EDT" name="chromeTestMethod" finished-at="2022-09-03T22:20:13 EDT" duration-ms="46" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- chromeTestMethod -->
+        <test-method is-config="true" signature="afterTest()[pri:0, instance:TestNG_Tests.ChromeTesting@28f3b248]" started-at="2022-09-03T22:20:13 EDT" name="afterTest" finished-at="2022-09-03T22:20:13 EDT" duration-ms="357" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- TestNG_Tests.ChromeTesting -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
